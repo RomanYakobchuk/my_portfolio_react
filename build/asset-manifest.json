@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0386e91f.css",
+    "main.js": "/static/js/main.1ca7cd3b.js",
+    "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/portfolioPNG.png": "/static/media/portfolioPNG.3adc8e00ad7619d4bfea.png",
+    "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "static/media/CentraNo2-Bold.ttf": "/static/media/CentraNo2-Bold.31d6cfe0d16ae931b73c.ttf",
+    "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.31d6cfe0d16ae931b73c.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.31d6cfe0d16ae931b73c.ttf",
+    "main.0386e91f.css.map": "/static/css/main.0386e91f.css.map",
+    "main.1ca7cd3b.js.map": "/static/js/main.1ca7cd3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0386e91f.css",
+    "static/js/main.1ca7cd3b.js"
+  ]
+}
